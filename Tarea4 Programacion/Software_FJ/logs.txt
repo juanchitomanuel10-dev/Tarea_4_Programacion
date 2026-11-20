@@ -1,0 +1,17 @@
+2026-11-20 17:05:45,503 - INFO - Cliente registrado: Carlos Perez
+2026-11-20 17:05:45,504 - INFO - Cliente registrado: Laura Gomez
+2026-11-20 17:05:45,504 - ERROR - Prueba 3: El nombre es obligatorio.
+2026-11-20 17:05:45,504 - INFO - Servicio registrado: Sala de reuniones
+2026-11-20 17:05:45,504 - INFO - Servicio registrado: Computador portatil
+2026-11-20 17:05:45,504 - INFO - Servicio registrado: Asesoria de software
+2026-11-20 17:05:45,504 - ERROR - Prueba 7: El precio debe ser mayor que cero.
+2026-11-20 17:05:45,505 - INFO - Reserva R-001 procesada. Total: 119000.0
+2026-11-20 17:05:45,505 - INFO - Finalizo el procesamiento de R-001.
+2026-11-20 17:05:45,505 - INFO - Reserva R-001 confirmada.
+2026-11-20 17:05:45,505 - INFO - Reserva R-002 procesada. Total: 107100.0
+2026-11-20 17:05:45,505 - INFO - Finalizo el procesamiento de R-002.
+2026-11-20 17:05:45,505 - INFO - Reserva R-002 cancelada.
+2026-11-20 17:05:45,505 - ERROR - Error procesando R-003: El servicio no esta disponible.
+2026-11-20 17:05:45,505 - INFO - Finalizo el procesamiento de R-003.
+2026-11-20 17:05:45,506 - ERROR - Prueba 11: No se pudo procesar la reserva: El servicio no esta disponible.
+2026-11-20 17:05:45,506 - ERROR - Prueba 12: Reserva no encontrada.
